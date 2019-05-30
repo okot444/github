@@ -1,0 +1,1 @@
+dict_items([('yesterday', 2), ('all', 1), ('my', 1), ('troubles', 1), ('seemed', 1), ('so', 1), ('far', 1), ('away', 1), ('now', 1), ('it', 1), ('looks', 1), ('as', 1), ('though', 1), ("they're", 1), ('here', 1), ('to', 1), ('stay', 1), ('oh', 1), ('i', 1), ('believe', 1), ('in', 1)])
